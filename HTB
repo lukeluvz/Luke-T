@@ -1,0 +1,36 @@
+Hack The Box:
+(set to change at any time)
+
+-Acquired Knowledge:
+  -Offensive Security Skills:
+    -Gained hands-on experience in initial foothold, priviledge escalation, and post-exploitation on Linux & Windows machines
+    -Practiced enumeration-first methodology using tools like: nmap,enum4linux, linPEAS, winPEAS, bloodhoumd and kerbrute
+    -Mastered pivoting through networks, lateral movement, and tunneling using chisel, socat, and SSH tricks
+    -identified and exploited real-world misconfigurations and CVEs
+      -e.g., unauthenticated RCE, SUID abuse, Kerberoasting,unquoted service paths.
+
+  -Operating System & Service Knowledge:
+    -Deepend understanding of Linux internals, user/group permissions, SUID/GUID, cron jops
+    -Explored Windows AD environments: LDAP. SMB, GPO, PowerShell exploitation 
+    -Worked with Web Servers, Databases, CMS, and custom applications under various security configurations
+
+  -Web Application Security:
+    -Practiced exploiting:
+        XSS, SQLi, Command Injection, LFI/RFI, SSTI, IDOR
+    -Used Burp Suite to intercept and manipulate web traffic
+    -Crafted custom payloads for authentication bypasses, token replay, CSRF exploitation
+
+  -Enumeration Techniques:
+    -Web & Service enumeration with tools like ffuf, dirsearch, nikto, gobuster
+    -Manual recon for custom services, odd ports, hidden parakmeters, and encoded data
+
+  -Tool Usage & Scripting:
+    -Used tools effectively in a practical pentest environment:
+      -nmap, hydra, john, hastcat, wfuzz, sqlmap, msfvenom, impacket, netcat, etc.
+    -Built small scripts in Bash/Python to automate recon, fuzzing or even reverse shells.
+
+  -Cryptography & CTF concepts:
+    Solved Challanges Involving:  
+      -Steganography, Base encodings, Caeser/Rail Fence ciphers
+      -Hash creacking and format identification
+      -JWT token tampering, insecure crypto usage
