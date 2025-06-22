@@ -1,0 +1,18 @@
+# 🐞 Bug Reports & Writeups
+
+A collection of bug bounty reports, redacted writeups, and simulated discoveries.
+
+---
+
+## 🔐 Example: Reflected XSS on [Redacted-Target.com]
+- **Type:** Reflected XSS
+- **Vector:** Query parameter in search
+- **Payload:** `<script>alert(document.domain)</script>`
+- **Impact:** Possible session hijacking if exploited with social engineering
+- **Fix Recommendation:** Input sanitization + CSP header
+
+---
+
+## 🧠 Key Lessons
+- Bypassed WAF by encoding payload (`<sCript>` variant)
+- Learned about cookie security flags (`HttpOnly`, `Secure`, `SameSite`)
