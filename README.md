@@ -1,9 +1,9 @@
 # lukes-info
-<h1>Hi, I'm Luke! <br/><a href="https://github.com/lukeluvz/lukeluvs">Student</a>, <a href="https://www.linkedin.com/in/luke-thompson-73750836a/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmabggdakor">YouTuber</a></h1>
+<h1>Hi, I'm Luke! <br/><a href="https://github.com/lukeluvz/lukeluvs">Student</a>, <a href="https://www.linkedin.com/in/luke-thompson-73750836a/">Aspiring Cybersecurity Professional</a>, <a href="https://github.com/lukeluvz/lukeluvs/new/main">Self-taught</a></h1>, <a href="https://github.com/lukeluvz/lukeluvs/blob/main/Bug%20Bounty%20&%20Web%20Security">Bug-Bounties and Web Security</a> ;
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Bug Bounty Hunting Experience:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
