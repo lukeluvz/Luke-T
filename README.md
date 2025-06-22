@@ -20,6 +20,24 @@
 - [Penetration Testing](https://www.youtube.com/watch?v=3Kq1MIfTWCE&t=25381s)
 - [IT Support](https://www.youtube.com/watch?v=qwPKbWDu9SA)
 - [IT Support Crash Course](https://www.youtube.com/watch?v=KJoP5rY4o1c)
+
+<h2> Certifications i'm currently working on: </h2>
+
+[compTIA A+]
+[compTIA Network+]
+[compTIA Security+]
+
+<h2>Future Certifications:</h2>
+
+[compTIA Pentest+]
+[compTIA CySA+]
+[compTIA Cloud+]
+[compTIA Cloud Essentials+]
+[OSCP]
+[OSCP+]
+[and much much more]
+
+<h2>Ask me about anything!</h2>
   
 <h2> 🤳 Connect with me:</h2>
 
