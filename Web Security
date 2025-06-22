@@ -1,0 +1,54 @@
+# 🔐 Web Security Knowledge & Practice
+
+A comprehensive summary of my hands-on experience and continued learning in modern web application security.
+
+---
+
+## 🌐 Web Security Vulnerabilities Mastered
+
+- **XSS (Cross-Site Scripting):** Reflected, Stored, DOM-based
+- **SQL Injection:** Manual and automated testing
+- **IDOR:** Insecure Direct Object References in URLs and APIs
+- **CSP Misconfigurations:** Wildcard usage, CSP bypasses
+- **CORS Misconfigurations:** Insecure `Access-Control-Allow-Origin` headers
+- **CSRF:** Missing tokens, SameSite issues, session fixation
+- **Open Redirects:** Chain building, OAuth misuse
+- **Clickjacking:** Demonstrated PoCs, missing frame protections
+- **Security Misconfigurations:** Header misconfig, exposed directories/ports
+- **Broken Authentication:** Token reuse, login flow abuse
+
+---
+
+## 🧰 Tools in My Arsenal
+
+- **Burp Suite** (Community Edition)
+- **OWASP ZAP**
+- **httpx**, **nuclei**, **waybackurls**
+- **SQLmap**, **XSStrike**, **Dalfox**
+- **Metasploit / msfconsole**
+
+---
+
+## ⚙️ Automation & Scripting
+
+- Bash and Python scripts for recon and automation
+- Custom **Nuclei** templates for vulnerability scanning
+- Fuzzing payload generators and automation logic
+- Light brute-forcing tools within lab environments
+
+---
+
+## 💥 Exploitation Techniques Practiced
+
+- PoCs for **XSS**, **CSRF**, **Open Redirects**, etc.
+- WAF bypass via encoding, header manipulation, payload obfuscation
+- API exploitation using Postman, curl, token abuse
+
+---
+
+## 📚 Ongoing Learning & Labs
+
+- Labs: **Hack The Box**, **TryHackMe**, **PortSwigger Academy**
+- CVE analysis and reproduction (e.g., **CVE-2024-6387**)
+- Active study of core topics like OAuth, SAML, JWT, and SSRF
+
