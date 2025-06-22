@@ -1,0 +1,49 @@
+# 🐞 Bug Bounty Progress & Practice
+
+Documenting my progress, methodologies, and tools as a self-driven bug bounty hunter.
+
+---
+
+## 🎯 Recon & Enumeration (Real-World)
+
+- Subdomain enumeration with **Amass**, **Sublist3r**, **Assetfinder**
+- Target surface mapping via `httpx`, **waybackurls**
+- Port scanning with **Nmap**, **RustScan**
+- Directory and endpoint discovery with **ffuf**, **Gobuster**, **Dirsearch**
+- Finding secrets using **Google Dorking**, **GitHub Dorking**, `gitLeaks`
+
+---
+
+## 🧪 Testing in Scope
+
+- Crafting PoCs for real-world bugs
+- Manual testing of scoped assets for edge-case logic flaws
+- Brute-forcing or fuzzing routes (always within policy and scope)
+- Identifying API and mobile/web inconsistencies
+
+---
+
+## 📄 Responsible Disclosures
+
+> [List removed for privacy — you can add redacted summaries or links here]
+
+- Submitted reports to platforms like **HackerOne**, **Bugcrowd**, **Intigriti**
+- Focused on low-hanging fruit that often leads to deeper findings (e.g., IDOR → RCE chain)
+
+---
+
+## 🧠 Methodologies & Mindset
+
+- Treating every engagement as a full pentest: **enumerate > fingerprint > exploit > report**
+- Focused on impact: prioritizing real-world abuse scenarios over just theory
+- Using recon automation to scale asset discovery across wide scopes
+- Actively staying updated with top bug bounty writeups & HackerOne hacktivity
+
+---
+
+## 🏁 Goals
+
+- First critical report ($$$ payout)
+- Specializing in logic flaws & authorization bypasses
+- Building a custom recon pipeline and asset tracker
+- Getting private invites on major programs
