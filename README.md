@@ -1,5 +1,5 @@
 # lukes-info
-<h1>Hi, I'm Luke! <br/><a href="https://github.com/lukeluvz/lukeluvs">Student</a>, <a href="https://www.linkedin.com/in/luke-thompson-73750836a/">Aspiring Cybersecurity Professional</a>, <a href="https://github.com/lukeluvz/lukeluvs/new/main">Self-taught</a></h1>, <a href="https://github.com/lukeluvz/lukeluvs/blob/main/Bug%20Bounty%20&%20Web%20Security">Bug-Bounties and Web Security</a> ;
+<h1>Hi, I'm Luke! <br/><a href="https://github.com/lukeluvz/lukeluvs">Student</a>, <a href="https://www.linkedin.com/in/luke-thompson-73750836a/">Aspiring Cybersecurity Professional</a>, <a href="https://github.com/lukeluvz/Luke-T/blob/main/List%20of%20Self-taught%20'skills'">Self-taught</a></h1>, <a href="https://github.com/lukeluvz/lukeluvs/blob/main/Bug%20Bounty%20&%20Web%20Security">Bug-Bounties and Web Security</a> ;
 
 <h2>👨‍💻 Bug Bounty Hunting Experience:</h2>
 
