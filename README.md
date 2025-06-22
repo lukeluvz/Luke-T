@@ -7,7 +7,7 @@
   - [Deep look into my general ongoing career:](https://github.com/lukeluvz/Luke-T/blob/main/Bug%20Bounty)
   - [Methodology & Recon workflow](https://github.com/lukeluvz/Luke-T/new/main)
   - 
-- <b>(Web Security</b>
+- <b>(Web Security)</b>
   - [Web Security](https://github.com/lukeluvz/Luke-T/blob/main/Web%20Security) <b>(<- a general overview)</b>
 - <b>(Hack The Box)</b>
   - [General Overview of current expertise](https://github.com/lukeluvz/Luke-T/blob/main/HTB)
