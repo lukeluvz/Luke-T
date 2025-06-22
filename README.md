@@ -23,12 +23,9 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="LukeThompson | Twitter" width="22px" src="https://x.com/LukeNgozSec" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/luke-thompson-73750836a/" />][linkedin]
-
-[twitter]: https://x.com.LukeNgozSec
-[linkedin]: https://www.linkedin.com/in/luke-thompson-73750836a/
-
+-[linkedin](https://www.linkedin.com/in/luke-thompson-73750836a/)
+-[twitter](https://x.com/LukeNgozSec)
+-[email](lukengo06@icloud.com)
 <!--
 
 Here are some ideas to get you started:
