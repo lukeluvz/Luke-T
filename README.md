@@ -14,14 +14,18 @@
   - [Words Per Minute](https://github.com/lukeluvz/Luke-T/blob/main/WPM)
   - [Reports and Writeups](https://github.com/lukeluvz/Luke-T/blob/main/Reports%26Writeups)
 
-<h2>📺 Popular Free Courses Taken</h2>
+<h2>📺 Popular Courses Taken</h2>
 
+- [Jira/Ticketing System Fundamentals](https://www.udemy.com/course/ticketing-system-and-help-desk-fundamentals/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com&couponCode=MT300725C)
+- [Linux Command Line Basics](https://www.udemy.com/course/linux-command-line-volume1/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+- [AI Security Bootcamp](https://www.udemy.com/course/ai-security-bootcamp/?utm_campaign=email&utm_medium=email&utm_source=sendgrip.com&couponCode=MT300725C)
+- [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
 - [Ethical Hacking Course](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
 - [Penetration Testing](https://www.youtube.com/watch?v=3Kq1MIfTWCE&t=25381s)
 - [IT Support](https://www.youtube.com/watch?v=qwPKbWDu9SA)
 - [IT Support Crash Course](https://www.youtube.com/watch?v=KJoP5rY4o1c)
 
-<h2> Certifications i'm currently working on: </h2>
+<h2> Certifications awaiting funding : </h2>
 
 [compTIA A+]
 [compTIA Network+]
@@ -35,7 +39,8 @@
 [compTIA Cloud Essentials+]
 [OSCP]
 [OSCP+]
-[and much much more]
+[AWS-S.C.P]
+[Azure Cloud...]
 
 <h2>Ask me about anything!</h2>
   
@@ -46,14 +51,4 @@
 -[email](lukengo06@icloud.com)
 <!--
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
