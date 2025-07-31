@@ -1,12 +1,11 @@
 # lukes-info
-<h1>Hi, I'm Luke! <br/><a href="https://github.com/lukeluvz/lukeluvs">Student</a>, <a href="https://www.linkedin.com/in/luke-thompson-73750836a/">Aspiring Cybersecurity Professional</a>, <a href="https://github.com/lukeluvz/Luke-T/blob/main/List%20of%20Self-taught%20'skills'">Self-taught</a></h1> 
+<h1>Hi, I'm Luke! <br/><a href="https://github.com/lukeluvz/lukeluvs">Student</a>, <a href="https://www.linkedin.com/in/luke-thompson-73750836a/">Aspiring Cybersecurity Professional</a>, <a href="https://github.com/lukeluvz/Luke-T/blob/main/List%20of%20Self-taught%20'skills'">Self-Starter</a></h1> 
 
 <h2>👨‍💻 Bug Bounty Hunting Experience:</h2>
 
 - <b> (Bug Bounty Hunting)</b>
   - [Deep look into my general ongoing career:](https://github.com/lukeluvz/Luke-T/blob/main/Bug%20Bounty)
   - [Methodology & Recon workflow](https://github.com/lukeluvz/Luke-T/new/main)
-  - 
 - <b>(Web Security)</b>
   - [Web Security](https://github.com/lukeluvz/Luke-T/blob/main/Web%20Security) <b>(<- a general overview)</b>
 - <b>(Hack The Box)</b>
@@ -42,7 +41,7 @@
 [AWS-S.C.P]
 [Azure Cloud...]
 
-<h2>Ask me about anything!</h2>
+<h3>Ask me about anything!</h3>
   
 <h2> 🤳 Connect with me:</h2>
 
