@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>KT'S Pretty Claws and Paws</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f9f7f5;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            padding: 10px 0;
+        }
+        header h1 {
+            margin-bottom: 5px;
+            font-size: 2.5em;
+            color: #cc3366;
+        }
+        header p {
+            font-style: italic;
+            color: #666;
+        }
+        .services, .about, .contact, .hours, .weights {
+            margin: 20px 0;
+        }
+        .services h2, .about h2, .contact h2, .hours h2, .weights h2 {
+            border-bottom: 2px solid #cc3366;
+            padding-bottom: 5px;
+            color: #cc3366;
+            font-size: 1.4em;
+            margin-bottom: 10px;
+        }
+        .services ul {
+            list-style: none;
+            padding: 0;
+            margin: 10px 0;
+            font-size: 1.1em;
+        }
+        .hours-tables, .prices-table, .Animal-weights {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 10px 0;
+        }
+        .hours-tables th, .hours-tables td, .prices-table th, .prices-table td, .Animal-weights th, .Animal-weights td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 15px;
+            background: #cc3366;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #888;
+            padding: 15px 0;
+            background: #eee;
+            margin-top: 30px;
+        }
+        @media print {
+            .button { display: none; }
+            body, .container { box-shadow: none; margin: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>KT'S Pretty Claws and Paws</h1>
+            <p>Your pet is family - gentle nail trims and beyond, in the comfort of your own home!</p>
+        </header>
+
+        <section class="services" aria-labelledby="our-services">
+            <h2 id="our-services">Our Services</h2>
+            <ul>
+                <li>Full Grooming</li>
+                <li>Nail Trimming</li>
+                <li>Bathing</li>
+                <li>Haircuts and Styling</li>
+                <li>Ear Cleaning</li>
+                <li>Teeth Brushing</li>
+            </ul>
+
+            <table class="prices-table" aria-label="Standard Prices">
+                <thead>
+                    <tr>
+                        <th>Service</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Full Grooming (Small Dog)</td>
+                        <td>$40</td>
+                    </tr>
+                    <tr>
+                        <td>Full Grooming (Medium Dog)</td>
+                        <td>$60</td>
+                    </tr>
+                    <tr>
+                        <td>Full Grooming (Large Dog)</td>
+                        <td>$80</td>
+                    </tr>
+                    <tr>
+                        <td>Nail Trimming</td>
+                        <td>$15</td>
+                    </tr>
+                    <tr>
+                        <td>Bathing</td>
+                        <td>$25</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="about" aria-labelledby="about-us">
+            <h2 id="about-us">About Us</h2>
+            <p>At KT'S Pretty Claws and Paws, we are dedicated to providing top-notch grooming services for your beloved pets. Our experienced groomers treat every pet with love and care, ensuring they look and feel their best.</p>
+        </section>
+
+        <section class="about" aria-labelledby="about-me">
+            <h2 id="about-me">About Me</h2>
+            <p>Hi! I'm Katianne — a former vet tech turned self-starter entrepreneur servicing Cape Coral with in-home pet care. I treat every client like family, using gentle, fear-free handling to keep your furry friends calm and cared for; feel free to reach out beforehand with any concerns you may have.</p>
+        </section>
+
+        <section class="services" aria-labelledby="services-prices">
+            <h2 id="services-prices">Services &amp; Prices</h2>
+            <table class="prices-table" aria-label="Service Prices">
+                <thead>
+                    <tr>
+                        <th>Service</th>
+                        <th>Duration</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>Dog Nail Trim</td><td>30 Min</td><td>$30</td></tr>
+                    <tr><td>Cat Nail Trim</td><td>30 Min</td><td>$25</td></tr>
+                    <tr><td>"Angry Kitty" Trim (anxious cats)</td><td>45 Min</td><td>$50</td></tr>
+                    <tr><td>"Angry Doggy" Trim (needs safety muzzle)</td><td>45 Min</td><td>$50</td></tr>
+                    <tr><td>Bunny / Guinea-Pig Trim</td><td>30 Min</td><td>$30</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Bath Packages</h3>
+            <table class="prices-table" aria-label="Bath Packages">
+                <thead>
+                    <tr>
+                        <th>Package</th>
+                        <th>Duration</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>Dog Bath (Small)</td><td>30 Min</td><td>$40</td></tr>
+                    <tr><td>Dog Bath (Medium)</td><td>45 Min</td><td>$50</td></tr>
+                    <tr><td>Dog Bath (Large)</td><td>1 Hr</td><td>$60</td></tr>
+                    <tr><td>Dog Bath (Extra-large)</td><td>90 Min</td><td>$200</td></tr>
+                    <tr><td>Cat Bath</td><td>45 Min</td><td>$100</td></tr>
+                    <tr><td>Bunny / Guinea-Pig Bath</td><td>30 Min</td><td>$75</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="hours" aria-labelledby="business-hours">
+            <h2 id="business-hours">Business Hours</h2>
+            <table class="hours-tables" aria-label="Business Hours">
+                <thead>
+                    <tr><th>Day</th><th>Hours</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>Monday</td><td>4:30 PM - 6:00 PM</td></tr>
+                    <tr><td>Tuesday</td><td>4:30 PM - 6:00 PM</td></tr>
+                    <tr><td>Wednesday</td><td>4:30 PM - 6:00 PM</td></tr>
+                    <tr><td>Thursday</td><td>4:30 PM - 6:00 PM</td></tr>
+                    <tr><td>Friday</td><td>4:30 PM - 6:00 PM</td></tr>
+                    <tr><td>Saturday</td><td>8:00 AM - 4:00 PM</td></tr>
+                    <tr><td>Sunday</td><td>8:00 AM - 4:00 PM</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="contact" aria-labelledby="contact-booking">
+            <h2 id="contact-booking">Contact &amp; Booking</h2>
+            <p>Phone: <strong>+1 (239) 821-7785</strong><br>
+               Email: <strong><a href="mailto:ktsprettyclawsandpaws@gmail.com">ktsprettyclawsandpaws@gmail.com</a></strong><br>
+               Location: Serving Cape Coral and surrounding areas (in-home service - travel fees may apply based upon location).</p>
+            <a class="button" href="https://book.heygoldie.com/KT-S-Pretty-Claws-Paws" target="_blank" rel="noopener">Book Now!</a>
+        </section>
+
+        <section class="weights" aria-labelledby="weight-classes">
+            <h2 id="weight-classes">Weight Classes</h2>
+            <table class="Animal-weights" aria-label="Weight Classes">
+                <thead>
+                    <tr><th>Weight Class</th><th>Weight Range</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>Small</td><td>0-20 lbs</td></tr>
+                    <tr><td>Medium</td><td>21-50 lbs</td></tr>
+                    <tr><td>Large</td><td>51-90 lbs</td></tr>
+                    <tr><td>Extra-Large</td><td>91+ lbs</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <div class="footer">
+            Clients can cancel or reschedule up to <strong>24 hours BEFORE</strong> appointment.<br>
+            Let me care for your pets like family - paws, claws and all!
+        </div>
+    </div>
+</body>
+</html>
