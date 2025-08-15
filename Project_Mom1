@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <title> KT'S Pretty Claws and Paws</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f9f7f5;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px; 
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            padding: 10px 0;
+        }
+        header h1 {
+            margin-bottom: 5px;
+            font-size: 2.5em;
+            color: #cc3366;
+        }
+        header p {
+            font-style: italic;
+            color: #666;
+        }
+        .services, .about, .contact {
+            margin: 20px 0;
+        }
+        .services h2, .about h2, .contact h2 {
+            border-bottom: 2px solid  #cc3366;
+            padding-bottom: 5px;
+            color: #cc3366;
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        .services ul {
+            list-style: none;
+            padding: 0;
+        }
+        .services ul {
+            margin: 10px 0;
+            font-size: 1.1em;
+        }
+        .hours-tables, .prices-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 10px 0;
+        }
+        .hours-tables th, .hours-tables td, .prices-table th, .prices-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 15px;
+            background: #cc3366;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #888;
+            padding: 15px 0;
+            background: #eee;
+            margin-top: 30px;
+        }
+        @media print {
+            .button { display: none; }
+            body, .container { box-shadow: none; margin: 0; }
+        }
+    </style>
+</head>
+</body>
+    <div class="container">
+        <header>
+            <h1>KT'S Pretty Claws and Paws</h1>
+            <p>Your pet is family - gentle nail trims and beyond, in the comfort of your own home! </p>
+        </header>
+
+        <section class="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Full Grooming</li>
+                <li>Nail Trimming</li>
+                <li>Bathing</li>
+                <li>Haircuts and Styling</li>
+                <li>Ear Cleaning</li>
+                <li>Teeth Brushing</li>
+            </ul>
+            <table class="prices-table">
+                <tr>
+                    <th>Service</th>
+                    <th>Price</th>
+                </tr>
+                <tr>
+                    <td>Full Grooming (Small Dog)</td>
+                    <td>$40</td>
+                </tr>
+                <tr>
+                    <td>Full Grooming (Medium Dog)</td>
+                    <td>$60</td>
+                </tr>
+                <tr>
+                    <td>Full Grooming (Large Dog)</td>
+                    <td>$80</td>
+                </tr>
+                <tr>
+                    <td>Nail Trimming</td>
+                    <td>$15</td>
+                </tr>
+                <tr>
+                    <td>Bathing</td>
+                    <td>$25</td>
+                </tr>
+            </table>
+        </section>
+
+        <section class="about">
+            <h2>About Us</h2>
+            <p>At KT'S Pretty Claws and Paws, we are dedicated to providing top-notch grooming services for your beloved pets. Our experienced groomers treat every pet with love and care, ensuring they look and feel their best.</p>
+        </section>
+
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <p><strong>Address:</strong> 123 Pet Lane, Animal City, AC 12345</p>
+            <p><strong>Phone:</strong> (123) 456-7890</p>
+            <p><strong>Email:</strong>
+        
+        <section class="about">
+            <h2>About Me</h2>
+            <p>Hi! I'm Katianne,-a former vet tech turned self-starter entrepreneur servicing Cape Coral with in-home pet-care.
+                I treat every client like family, using gentle, fear-free handling to keep your furry friends calm and cared for, feel free to reach out beforehand with any concerns you may have with your friend! .</p>
+        </section>
+
+        <section class="services">
+            <h2>Services & Prices</h2>
+            <table class="prices-table">
+                <tr><th>Service</th><th>Duration</th><th>Price</th></tr></th>
+                <tr><td>Dog Nail Trim</td><td>30 Min</td><td>$30</td></th></tr>
+                <tr><td>Cat Nail Trim</td><td>30 Min</td><td>$25</td></th></tr>
+                <tr><td>"Angry Kitty" Trim (anxious cats)</td><td>45 Min</td><td>$50</td></th></tr>
+                <tr><td>"Angry Doggy" Trim (needs safety muzzle)</td><td>45 Min</td><td>$50</td></th></tr>
+                <tr><td>Bunny/Guinea-Pig Trim</td><td>30 Mins</td><td>$30</td></th></tr>
+                <!-- <tr><td>In-home Out-of-City(not in Cape Coral/South Fort Myers) Trip</td><td>1-Hour 20min </td><td>Varies</td></th></tr>
+                </td><td>1.5-2 Hrs</td><td>$75-$150</td></th></tr> -->
+            </table>
+
+            <h3> Bath Packages</h3>
+            <table class="prices-table">
+                <tr><th>Package</th><th>Duration</th><th>Price</th></tr></th>
+                <tr><td>Dog Bath (Small)</td><td>30 Min</td><td>$40</td></th></tr>
+                <tr><td>Dog Bath (Medium)</td><td>45 Min</td><td>$50</td></th></tr>
+                <tr><td>Dog Bath (Large)</td><td>1 Hr</td><td>$60</td></th></tr>
+                <tr><td>Dog Bath (Extra-large)</td></tr><td>90 mins</td><td>$200</td></th></tr>
+                <tr><td>Cat Bath</td><td>45 Min</td><td>$100</td></th></tr>
+                <tr><td>Bunny/Guinea-Pig Bath</td><td>30 Mins</td><td>$75</td></th></tr>
+        </section>
+
+        <section class="hours">
+            <h2>Business Hours</h2>
+            <table class="hours-tables">
+                <tr><th>Day</th><th>Hours</th></tr>
+                <tr><td>Monday</td><td>4:30 PM - 6:00 PM</td></tr>
+                <tr><td>Tuesday</td><td>4:30 PM - 6:00 PM</td></tr>
+                <tr><td>Wednesday</td><td>4:30 PM - 6:00 PM</td></tr>
+                <tr><td>Thursday</td><td>4:30 PM - 6:00 PM</td></tr>
+                <tr><td>Friday</td><td>4:30 PM - 6:00 PM</td></tr>
+                <tr><td>Saturday</td><td>8 AM - 4:00 PM</td></tr>
+                <tr><td>Sunday</td><td>8 AM - 4:00PM</td></tr>
+            </table>
+        </section>
+
+        <section class="contact">
+            <h2>Contact & Booking</h2><br>
+            <p>Phone: <strong>+12398217785</strong>
+            Email: <strong>ktsprettyclawsandpaws@gmail.com</strong><br>
+            Location: Serving Cape Coral and surrounding areas;(in-home service - travel fees may apply based upon location)</p>
+            <a class="button" href="https://book.heygoldie.com/KT-S-Pretty-Claws-Paws" target="_blank">Book Now!</a>
+            </section>
+
+        <section class="weights">
+            <h2>Weight Class's</h2><br>
+            <table class="Animal-weights">
+                <tr><th>Weight Class</th><th>Weight Range</th></tr>
+                <tr><td>Small</td><td>0-20 lbs</td></tr>
+                <tr><td>Medium</td><td>21-50 lbs</td></tr>
+                <tr><td>Large</td><td>51-90 lbs</td></tr>
+                <tr><td>Extra-Large</td><td>91+ lbs</td></tr>
+            </table>
+            </section>
+
+        <div class="footer">
+            Clients can cancel or reschedule up to **24 hours BEFORE** appointment. <br>
+            Let me care your pets like family - paws, claws and all!
+        </div>
+    </div>
+</body>
+</html>
